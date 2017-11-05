@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-core-ui-24.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/d7f8a589baea1bbe6a580bffc043137b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/d7f8a589baea1bbe6a580bffc043137b/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/d7f8a589baea1bbe6a580bffc043137b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/Users/Administrator/AppData/Local/sdk/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/Users/Administrator/AppData/Local/sdk/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
